@@ -4,4 +4,4 @@ MAINTAINER Arthur Ho
 
 # Build dependencies
 RUN apt-get -y update
-RUN apt-get install mono-complete
+RUN apt-get -y install mono-complete
